@@ -1,2 +1,2 @@
-# MARP-I
-Asignatura: Métodos algorítmicos de resolución de problemas I
+# MARP
+Asignatura: Métodos algorítmicos de resolución de problemas
